@@ -1,11 +1,24 @@
 # Skills
 # Frameworks
-- skill: Grails 2.x, Spring/Spring Boot, Angular 2+
+- skill: Frameworks
+  description: Grails 2.x, Spring/Spring Boot, Angular 2+
 
-# Craft beer brewing
-- skill: Craft beer brewing
-  description: Hops inspection, brew testing, distribution management, bottle label design, festival and event management
+# Programming Languages
+- skill: Programming Languages
+  description: Java 5+, Groovy, Python 2.x
 
-# Family leadership
-- skill: Family leadership
-  description: Bread winning, conflict resolution, couch inspection, TV longevity testing
+# Operating Systems
+- skill: Operating Systems
+  description: Linux (prefered), Windows
+
+# Server Technologies
+- skill: Server Technologies
+  description: Apache, Nginx, Tomcat, Jetty, Vert.x, PostgreSQL
+  
+# Build/CI Tools
+- skill: Build/CI Tools
+  description: Gradle, GitHub, Jenkins, Git, Subversion, IntelliJ, AWS, Docker, Postman
+  
+# Development Methodologies
+- skill: Development Methodologies
+  description: Agile, Scrum, Kanban, Continuous Integration, Continuous Deployment
