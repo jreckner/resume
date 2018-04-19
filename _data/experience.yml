@@ -1,19 +1,18 @@
 # Jobs
-# Springfield Nuclear Power Plant
-- company: Springfield Nuclear Power Plant
-  position: Safety Inspector
-  duration: Nov, 1980 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
+# B4
+- company: Lexmark International
+  position: Senior Software Engineer / B4
+  duration: 2013 &mdash; Present
+  summary: Project: Lexmark Print Management, SaaS <br/> LPM SaaS is a service where customers can print documents in various print and document formats and release those documents on any printer within their organization. It's hosted on Amazon EC2 in US-East-2 and EU-Frankfort, build out of Grails 2.1.1, Angular 5, Spring Boot microservices, and leverages a custom built OAuth2 Identity manager. 	<ul class="resume-item-list">  <li>Served as Team Lead and AWS Cloud Developer in our Business Solutions Software Division.</li>  <li>Responsible for architecture, implementation, deployment, and support of multi-component Grails / Spring Boot cloud solution.</li>  <li>Implemented a secure 256-bit Elliptic Curve Cryptography based registration service for mobile device authentication via bluetooth.</li>  <li>Developed a cross-company intermediary software product between our API and a third party print management API.</li>  <li>Co-developed a server-side implementation and definition for Apple AirPrint with Lexmark Print Management.</li>  <li>Individually addressed product feature shortcomings during Innovation Week projects relating to a wide variety of production features.</li>  <li>Presented a Raspberry Pi prototype for third party support without requiring any requirements outside of normal operating procedures</li>  <li>Fulfilled mentoring roles to both interns and full-time employees of varying skill levels.</li></ul>
 
-# Windmill Crank Operator
-- company: Sir Putt-A-Lot's Merrie Olde Fun Centre
-  position: Safety Inspector
-  duration:  Jun, 1978 &mdash; Sept, 1979
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# B3
+- company: Lexmark International
+  position: Staff Software Engineer / B3
+  duration: 2008 &mdash; 2013
+  summary: Project - Lexmark Print Management, Premises <br/> Similar to the above cloud based version but significantly more feature rich. Customers install this product within their own local organization. Often needing customization specific to the customer and from time to time required on-site developer installations, troubleshooting, and requirements gathering.  <ul class="resume-item-list">  <li>Lead a 10-person development team in US and Kolkata India through multiple release cycles.</li>  <li>Served as key onsite technical resource at Aegon in Scotland during customer-critical escalation.</li>  <li>Planned and carried out a year long product relocation to an offshores team in Cebu City, Philippines.</li>  <li>Served as software developer implementing what would become our Lexmark Document Distributor 4.x platform (still in use nearly 15 years later), and took a lateral move to begin a C# .Net based version of Lexmark Solutions Platform. The platform was meant to provide a common software structure for many software projects at Lexmark to leverage. Additionally, I was able to gain more experience and grow my knowledge base outside of the Java ecosystem.</li>  <li>Co-developed a server-side implementation and definition for Apple AirPrint with Lexmark Print Management.</li>  <li>Provided guidance for a large scrum-of-scrums development team working a common product as 8 separate scrum teams.</li></ul>
 
-
-# Front Desk Attendant
-- company: Simpson Lazer Tag
-  position: Front Desk Attendant
-  duration:   Jun, 1975  &mdash; May, 1978
-  summary: Boy, when Marge first told me she was going to the Police Academy, I thought it would be fun and exciting, you know, like the movie... Spaceballs. But instead, it's been painful and disturbing, like the movie Police Academy.
+# B2
+- company: Lexmark International
+  position: Software Engineer
+  duration: 2004 &mdash; 2008
+  summary: This encompasses my days as an entry-level full-time software engineer, and server-side programmer on my first product.<ul class="resume-item-list">  <li>Co-developed and maintained enterprise printing solutions written in OpenLaszlo, Java, JavaScript, and Groovy</li>  <li>Implemented complex product requests such as Ldap Authentication and Kerberos ticket support to meet urgent customer needs.</li>  <li>Served as key onsite technical resource at Roadway in Akron, Ohio during customer-requirements gathering</li>  <li>Automated my way out of a stress and stability test engineer role into a software development position on the same product.</li></ul>
