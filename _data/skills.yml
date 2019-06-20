@@ -1,19 +1,19 @@
 # Skills
 # Frameworks
 - skill: Frameworks
-  description: Grails 2.x, Spring/Spring Boot, Angular 2+
+  description: Grails 2.x, Spring/Spring Boot, Angular 7+
 
 # Programming Languages
 - skill: Programming Languages
-  description: Java 5+, Groovy, Python 2.x, TypeScript
+  description: Java 5+, Groovy, Kotlin, Python 2.x, TypeScript
 
 # Operating Systems
 - skill: Operating Systems
-  description: Linux (prefered), Windows
+  description: Linux (preferred), Windows
 
 # Server Technologies
 - skill: Server Technologies
-  description: Apache, Nginx, Tomcat, Jetty, Vert.x, PostgreSQL
+  description: Apache, Nginx, Tomcat, Jetty, Vert.x, PostgreSQL, Kubernetes, Helm
   
 # Build/CI Tools
 - skill: Build/CI Tools
