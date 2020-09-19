@@ -1,11 +1,11 @@
 # Skills
 # Frameworks
 - skill: Frameworks
-  description: Grails 2.x, Spring/Spring Boot, Angular 7+
+  description: Grails 2.x, Spring/Spring Boot, Angular 9+, Robot
 
 # Programming Languages
 - skill: Programming Languages
-  description: Java 5+, Groovy, Kotlin, Python 2.x, TypeScript
+  description: Java, Groovy, Kotlin, Python, TypeScript
 
 # Operating Systems
 - skill: Operating Systems
@@ -17,7 +17,7 @@
   
 # Build/CI Tools
 - skill: Build/CI Tools
-  description: Gradle, GitHub, Jenkins, Git, Subversion, IntelliJ, AWS, Docker, Postman
+  description: Gradle, GitHub, Jenkins, Git, Subversion, IntelliJ, AWS, Azure, Docker, Postman, Newman
   
 # Development Methodologies
 - skill: Development Methodologies
